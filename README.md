@@ -1,6 +1,9 @@
-# SQL-Data-Analysis-Internship-Task-3
-Advanced SQL queries using JOIN, GROUP BY, HAVING &amp; Subqueries
 # SQL Data Analysis Internship – Task 3 🚀
+
+![SQL Data Analysis Task 3](docs/social-preview.png)
+
+Advanced SQL queries using JOIN, GROUP BY, HAVING and subqueries on a student database.
+
 
 This repository contains **Task 3** of the SQL Data Analysis Internship, focused on **advanced SQL queries** using real-world analytical logic.
 
